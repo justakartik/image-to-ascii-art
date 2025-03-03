@@ -1,0 +1,15 @@
+{
+    "name": "image-to-ascii-art",
+    "version": "1.0.0",
+    "description": "Convert images to ASCII art using Jimp",
+    "main": "index.mjs",
+    "type": "module",
+    "scripts": {
+        "start": "node index.mjs"
+    },
+    "dependencies": {
+        "jimp": "^0.16.13"
+    },
+    "author": "",
+    "license": "MIT"
+}
