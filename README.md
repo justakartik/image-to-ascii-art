@@ -60,10 +60,6 @@ This Node.js project converts digital images into ASCII art. It leverages the [J
 - **ASCII Character Set:** Customize the ASCII characters used by editing the `asciiChars` string.
 - **Resize Width:** Adjust the width in `image.resize(100, Jimp.AUTO)` to change the resolution of the ASCII output.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements
 
 - [Jimp Documentation](https://jimp-dev.github.io/jimp/) for providing comprehensive guides and API references.
